@@ -1,11 +1,15 @@
 # cv-website 
 
-it is a cv website that represents my picture , my projects and skills.
+it is a cv website that represents my picture , my projects , skills and way of connection.
 
 # feautres:
 
-It is clean , organised and responsive for all screens📲.
+Clean representation for my projects.
+
+Organised and responsive for all screens📲.
+
+Contact section using MongoDB for database.
 
 # tech stack:
 
-HTML | CSS | JSON | JS & Bootstrap.
+EJS | CSS | Express | JS & Bootstrap.
