@@ -218,11 +218,16 @@ footer{
     }
     .heroLeft h1{
         font-family: 'Cinzel' , sans-serif;
+      
     }
+     .projects h2{
+        text-align: center;
+    
+     }
     .cardsContainer{
         display: flex;
         flex-direction: column;
-     
+     margin-left: 40px;
     }
     .card{
            padding: 10px 0px;
